@@ -1,0 +1,9 @@
+{
+  "name": "Appify AI",
+  "description": "Convert any web URL into a standalone application package. Generate PWA manifests, Electron wrappers, and AI-designed app icons with custom permissions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
